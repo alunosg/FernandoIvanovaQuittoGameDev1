@@ -1,0 +1,10 @@
+﻿FernandoIvanovaQuittoGameDev1/.vs
+*.vsconfig
+*.csproj
+FernandoIvanovaQuittoGameDev1/.vscode
+*.sln
+*.slnx
+FernandoIvanovaQuittoGameDev1/UserSettings
+FernandoIvanovaQuittoGameDev1/obj
+FernandoIvanovaQuittoGameDev1/Logs
+FernandoIvanovaQuittoGameDev1/Library
