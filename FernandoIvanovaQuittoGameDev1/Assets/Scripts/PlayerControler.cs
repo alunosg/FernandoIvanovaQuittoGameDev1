@@ -7,31 +7,50 @@ public class PlayerController : MonoBehaviour
     public float speed = 10;
     public float jumpForce = 10;
     public LayerMask floorLayer;
+    public Animator anim;
+    private bool grounded = false;
+
+
+
     private Vector2 moveInput;
-     public void move(InputAction.CallbackContext context)
+     public void Move(InputAction.CallbackContext context)
     {
         moveInput = context.ReadValue<Vector2>();
+        anim.SetBool("IsMoving", moveInput.x != 0);
     }
 
 
+
+    private void GroundCheck()
+    {
+        Vector2 leftPoint = new(col.bounds.min.x, col.bounds.max.y);
+        Vector2 rightPoint = new(col.bounds.max.x, col.bounds.max.y);
+
+        if (Physics2D.Raycast(leftPoint, Vector2.down, col.bounds.size.y * 1.1f, floorLayer) ||
+            Physics2D.Raycast(rightPoint, Vector2.down, col.bounds.size.y * 1.1f, floorLayer))
+        {
+            grounded = true;
+        }
+        else
+        {
+            grounded = false;
+        }
+        anim.SetBool("IsGrounded", grounded);
+    }
+
     public void Jump(InputAction.CallbackContext context)
     {
-        if (context.started)
+        if (context.started && grounded)
         {
-            Vector2 leftPoint = new(col.bounds.min.x, col.bounds.max.y);
-            Vector2 rightPoint = new(col.bounds.max.x, col.bounds.max.y);
-
-            if (Physics2D.Raycast(leftPoint, Vector2.down, col.bounds.size.y * 1.1f, floorLayer) ||
-                Physics2D.Raycast(rightPoint, Vector2.down, col.bounds.size.y * 1.1f, floorLayer))
-            {
-                rig.linearVelocity = new(rig.linearVelocity.x, jumpForce);
-            }    
+            anim.SetTrigger("Jump");
+            rig.linearVelocity = new(rig.linearVelocity.x, jumpForce);
         }
         
     }
     // Update is called once per frame
      public void  FixedUpdate()
     {
+        GroundCheck();
         rig.linearVelocity = new Vector2(moveInput.x * speed, rig.linearVelocity.y);
     }
 }
