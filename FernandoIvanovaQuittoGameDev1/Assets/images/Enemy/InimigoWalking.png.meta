@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: a89e72d743a25f746bcee4c7700a3269
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2453916328307143468
+    second: InimigoWalking_0
+  - first:
+      213: 1044441695917925115
+    second: InimigoWalking_1
+  - first:
+      213: 2662177126590843106
+    second: InimigoWalking_2
+  - first:
+      213: 8220547403232007567
+    second: InimigoWalking_3
+  - first:
+      213: 6445538838648041561
+    second: InimigoWalking_4
+  - first:
+      213: 8870066036115419879
+    second: InimigoWalking_5
+  - first:
+      213: -2073915630827465708
+    second: InimigoWalking_6
+  - first:
+      213: -5498464278729985493
+    second: InimigoWalking_7
+  - first:
+      213: -7145867081759758687
+    second: InimigoWalking_8
+  - first:
+      213: 612266733392318744
+    second: InimigoWalking_9
+  - first:
+      213: 6170170093360482771
+    second: InimigoWalking_10
+  - first:
+      213: 8393647162493913010
+    second: InimigoWalking_11
+  - first:
+      213: -8903937530825138543
+    second: InimigoWalking_12
+  - first:
+      213: 3283168314759594494
+    second: InimigoWalking_13
+  - first:
+      213: 8611900919861698361
+    second: InimigoWalking_14
+  - first:
+      213: -4231392798642368024
+    second: InimigoWalking_15
+  - first:
+      213: 5158442153297326890
+    second: InimigoWalking_16
+  - first:
+      213: 6249616620349834778
+    second: InimigoWalking_17
+  - first:
+      213: -604116578953035462
+    second: InimigoWalking_18
+  - first:
+      213: 2899869939878068933
+    second: InimigoWalking_19
+  - first:
+      213: -2639199599390151758
+    second: InimigoWalking_20
+  - first:
+      213: 4828157950640728782
+    second: InimigoWalking_21
+  - first:
+      213: -4061478810919875927
+    second: InimigoWalking_22
+  - first:
+      213: 104067707537605613
+    second: InimigoWalking_23
+  - first:
+      213: 285289165894672130
+    second: InimigoWalking_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InimigoWalking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1864
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23374136ef0e0220800000000000000
+      internalID: 2453916328307143468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1864
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf26bc1503a9e7e00800000000000000
+      internalID: 1044441695917925115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_2
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1864
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e80e97edf3f1f420800000000000000
+      internalID: 2662177126590843106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_3
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1864
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8557e41f40451270800000000000000
+      internalID: 8220547403232007567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_4
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1864
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950b99f7c67237950800000000000000
+      internalID: 6445538838648041561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1398
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2bae0701ec81b70800000000000000
+      internalID: 8870066036115419879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_6
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1398
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414166ac8b8f733e0800000000000000
+      internalID: -2073915630827465708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_7
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1398
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22ff10eed781b3b0800000000000000
+      internalID: -5498464278729985493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_8
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1398
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a66d83efb7c4dc90800000000000000
+      internalID: -7145867081759758687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_9
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1398
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81153af99553f7800800000000000000
+      internalID: 612266733392318744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 932
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d98d7a4209d0a550800000000000000
+      internalID: 6170170093360482771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 932
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b74a627f993c7470800000000000000
+      internalID: 8393647162493913010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_12
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 932
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e16e4adfbde6480800000000000000
+      internalID: -8903937530825138543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_13
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 932
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef14013ff28209d20800000000000000
+      internalID: 3283168314759594494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_14
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 932
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f5731424e938770800000000000000
+      internalID: 8611900919861698361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e196c32ba21745c0800000000000000
+      internalID: -4231392798642368024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 466
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2330bdcec7769740800000000000000
+      internalID: 5158442153297326890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 466
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16445e44391bb650800000000000000
+      internalID: 6249616620349834778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_18
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 466
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3184941c2fbd97f0800000000000000
+      internalID: -604116578953035462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_19
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 466
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2044d98586e3820800000000000000
+      internalID: 2899869939878068933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb2ffa82fdaf5bd0800000000000000
+      internalID: -2639199599390151758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_21
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca2b6f4310110340800000000000000
+      internalID: 4828157950640728782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_22
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa48544a8ab2a7c0800000000000000
+      internalID: -4061478810919875927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_23
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de34e545709b17100800000000000000
+      internalID: 104067707537605613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoWalking_24
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 544
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f5b6f1cfc85f300800000000000000
+      internalID: 285289165894672130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e92f456913e31fb47b8261ae9fdf2621
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":544.0,"y":466.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      InimigoWalking_0: 2453916328307143468
+      InimigoWalking_1: 1044441695917925115
+      InimigoWalking_10: 6170170093360482771
+      InimigoWalking_11: 8393647162493913010
+      InimigoWalking_12: -8903937530825138543
+      InimigoWalking_13: 3283168314759594494
+      InimigoWalking_14: 8611900919861698361
+      InimigoWalking_15: -4231392798642368024
+      InimigoWalking_16: 5158442153297326890
+      InimigoWalking_17: 6249616620349834778
+      InimigoWalking_18: -604116578953035462
+      InimigoWalking_19: 2899869939878068933
+      InimigoWalking_2: 2662177126590843106
+      InimigoWalking_20: -2639199599390151758
+      InimigoWalking_21: 4828157950640728782
+      InimigoWalking_22: -4061478810919875927
+      InimigoWalking_23: 104067707537605613
+      InimigoWalking_24: 285289165894672130
+      InimigoWalking_3: 8220547403232007567
+      InimigoWalking_4: 6445538838648041561
+      InimigoWalking_5: 8870066036115419879
+      InimigoWalking_6: -2073915630827465708
+      InimigoWalking_7: -5498464278729985493
+      InimigoWalking_8: -7145867081759758687
+      InimigoWalking_9: 612266733392318744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

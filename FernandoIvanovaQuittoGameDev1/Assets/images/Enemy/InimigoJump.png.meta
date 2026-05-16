@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 25a54b22cd2761348aca7de107b12a64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5174736691753655054
+    second: InimigoJump_0
+  - first:
+      213: -74478855721275289
+    second: InimigoJump_1
+  - first:
+      213: 1680952212081452849
+    second: InimigoJump_2
+  - first:
+      213: 7785307518690141902
+    second: InimigoJump_3
+  - first:
+      213: 8995959164059954123
+    second: InimigoJump_4
+  - first:
+      213: -2125618885216445393
+    second: InimigoJump_5
+  - first:
+      213: 3308998808897165202
+    second: InimigoJump_6
+  - first:
+      213: 6050725401411150236
+    second: InimigoJump_7
+  - first:
+      213: -1492740407226118886
+    second: InimigoJump_8
+  - first:
+      213: -2599444818339773799
+    second: InimigoJump_9
+  - first:
+      213: 5848000581316544678
+    second: InimigoJump_10
+  - first:
+      213: 6072206672671046412
+    second: InimigoJump_11
+  - first:
+      213: 1048915589443465084
+    second: InimigoJump_12
+  - first:
+      213: -2260407648052206109
+    second: InimigoJump_13
+  - first:
+      213: 8322584616273672977
+    second: InimigoJump_14
+  - first:
+      213: 225786687156144795
+    second: InimigoJump_15
+  - first:
+      213: -9013630938816509442
+    second: InimigoJump_16
+  - first:
+      213: 7439487367345153879
+    second: InimigoJump_17
+  - first:
+      213: -5885389308430659457
+    second: InimigoJump_18
+  - first:
+      213: 1026092841662588742
+    second: InimigoJump_19
+  - first:
+      213: 974791841459701838
+    second: InimigoJump_20
+  - first:
+      213: -6656399958239160489
+    second: InimigoJump_21
+  - first:
+      213: -4153085388425532320
+    second: InimigoJump_22
+  - first:
+      213: 8119490586021178367
+    second: InimigoJump_23
+  - first:
+      213: 7068984697378649259
+    second: InimigoJump_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InimigoJump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2544
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4e7d15564af28b0800000000000000
+      internalID: -5174736691753655054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2544
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760b47510e567fef0800000000000000
+      internalID: -74478855721275289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_2
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2544
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137a58d7121f35710800000000000000
+      internalID: 1680952212081452849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_3
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2544
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec624be90f7fa0c60800000000000000
+      internalID: 7785307518690141902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_4
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2544
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcba6b3723118dc70800000000000000
+      internalID: 8995959164059954123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1908
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cdfcac2e84082e0800000000000000
+      internalID: -2125618885216445393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1908
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297918682ecebed20800000000000000
+      internalID: 3308998808897165202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1908
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c916b88c1be78f350800000000000000
+      internalID: 6050725401411150236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_8
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1908
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d4a6d2288b84be0800000000000000
+      internalID: -1492740407226118886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_9
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1908
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992c0adc5baecebd0800000000000000
+      internalID: -2599444818339773799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1272
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a886af6b85482150800000000000000
+      internalID: 5848000581316544678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1272
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b705ffbcfc44450800000000000000
+      internalID: 6072206672671046412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1272
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fa524db2f7e8e00800000000000000
+      internalID: 1048915589443465084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_13
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1272
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5a542683b61a0e0800000000000000
+      internalID: -2260407648052206109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_14
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1272
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b7f121d92cf7370800000000000000
+      internalID: 8322584616273672977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a44f2bbc7222300800000000000000
+      internalID: 225786687156144795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 636
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef90f5bda6629e280800000000000000
+      internalID: -9013630938816509442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_17
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 636
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7572d91385e5e3760800000000000000
+      internalID: 7439487367345153879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_18
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 636
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70db1a2b95e25ea0800000000000000
+      internalID: -5885389308430659457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_19
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 636
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647aed5c00a6d3e00800000000000000
+      internalID: 1026092841662588742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e488720e308278d00800000000000000
+      internalID: 974791841459701838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757da3e4187bf93a0800000000000000
+      internalID: -6656399958239160489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_22
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ce70dd7d64d56c0800000000000000
+      internalID: -4153085388425532320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_23
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbabe84ba93ea070800000000000000
+      internalID: 8119490586021178367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InimigoJump_24
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 420
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba43de111241a1260800000000000000
+      internalID: 7068984697378649259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b57e4f2db64284048b86014bd625730f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":420.0,"y":636.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      InimigoJump_0: -5174736691753655054
+      InimigoJump_1: -74478855721275289
+      InimigoJump_10: 5848000581316544678
+      InimigoJump_11: 6072206672671046412
+      InimigoJump_12: 1048915589443465084
+      InimigoJump_13: -2260407648052206109
+      InimigoJump_14: 8322584616273672977
+      InimigoJump_15: 225786687156144795
+      InimigoJump_16: -9013630938816509442
+      InimigoJump_17: 7439487367345153879
+      InimigoJump_18: -5885389308430659457
+      InimigoJump_19: 1026092841662588742
+      InimigoJump_2: 1680952212081452849
+      InimigoJump_20: 974791841459701838
+      InimigoJump_21: -6656399958239160489
+      InimigoJump_22: -4153085388425532320
+      InimigoJump_23: 8119490586021178367
+      InimigoJump_24: 7068984697378649259
+      InimigoJump_3: 7785307518690141902
+      InimigoJump_4: 8995959164059954123
+      InimigoJump_5: -2125618885216445393
+      InimigoJump_6: 3308998808897165202
+      InimigoJump_7: 6050725401411150236
+      InimigoJump_8: -1492740407226118886
+      InimigoJump_9: -2599444818339773799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
